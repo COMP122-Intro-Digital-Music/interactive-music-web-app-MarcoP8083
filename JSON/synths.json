@@ -1,6 +1,6 @@
 [
   {
-    "name": "Default 0",
+    "name": "Pad Synth",
     "type": "Synth",
     "settings": {
       "volume": "0",
@@ -26,7 +26,7 @@
     }
   },
   {
-    "name": "Default 1",
+    "name": "Bright Synth",
     "type": "Synth",
     "settings": {
       "volume": "0",
