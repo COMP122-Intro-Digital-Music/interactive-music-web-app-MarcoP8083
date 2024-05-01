@@ -1,6 +1,6 @@
 [
   {
-    "name": "breakbeat",
+    "name": "Breakbeat",
     "file": "samples/breakbeat-120bpm-1m.mp3",
     "bpm": "120",
     "loop": "1m"
@@ -12,9 +12,9 @@
     "loop": "2m"
   },
   {
-    "name": "",
-    "file": "samples/",
+    "name": "Rhodes-piano",
+    "file": "samples/rhodes-garage-120bpm-8m.mp3",
     "bpm": "120",
-    "loop": "1m"
+    "loop": "8m"
   }
 ]
